@@ -1,5 +1,6 @@
 local Rayfield = loadstring(game:HttpGet('https://raw.githubusercontent.com/shlexware/Rayfield/main/source'))()
-local key = 114514
+local HelloWorldsound = Instance.new("Sound")
+local key1 = "114514"
 local Window = Rayfield:CreateWindow({
    Name = "DOORS NEW HUB",
    LoadingTitle = "DOORS NEW HUB",
