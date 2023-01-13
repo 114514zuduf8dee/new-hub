@@ -1,0 +1,2 @@
+local key = 114514
+return(key)
